@@ -1,5 +1,6 @@
 import streamlit as st
-import preprocessor, helper
+import helper
+import preprocessor
 import matplotlib.pyplot as plt
 import seaborn as sns
 
