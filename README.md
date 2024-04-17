@@ -1,2 +1,1 @@
-WhatsApp Chat Analyzer is a project which is examining the key metrics such as total messages, words, media shares, and links shared. It explores temporal patterns through monthly, daily, and weekly timelines, as well as visual representations like word clouds and common word analysis. ![image](https://github.com/Himansshu09/WhatsApp_Chat_Analyser/assets/103426256/14e2eb93-133f-4f6f-91e1-bec9460eb167)
-
+WhatsApp Chat Analyzer is a project which is examining the key metrics such as total messages, words, media shares, and links shared. It explores temporal patterns through monthly, daily, and weekly timelines, as well as visual representations like word clouds and common word analysis.
